@@ -1,5 +1,9 @@
 # Teste desenvolvedor e-Can.
 
+**Obs**: *Para acessar o código que escrevi neste teste, altere para a branch "Rafael_Pereira" e veja a pasta "proj".*
+
+- Segue o teste.
+
 #### STEPS:
 - Clonar o repositório
 - Crie uma branch com seu nome
